@@ -1,0 +1,116 @@
+{
+ "note": "VIP feature series creative library. Rotation job picks by feature + niche. 21+, PG-13, free-play only.",
+ "base": "https://raw.githubusercontent.com/ctnvibe/ctn-assets/main/features/",
+ "creatives": [
+  {
+   "key": "swipe_video",
+   "file": "swipe.mp4",
+   "media": "video",
+   "feature": "swipe",
+   "facts": "Swipe left to pass, right to save to favorites; 10,000+ exclusive photos in 900+ galleries"
+  },
+  {
+   "key": "swipe_gif",
+   "file": "swipe.gif",
+   "media": "gif",
+   "feature": "swipe",
+   "facts": "Thumb swipes queen cards left to pass, right to save, Favorite Found"
+  },
+  {
+   "key": "tip_video",
+   "file": "tip.mp4",
+   "media": "video",
+   "feature": "tip",
+   "facts": "Tap the gold $ to tip in one touch; a Tip Girl pops out to thank you; Rapid tip; tip mid-hand at blackjack"
+  },
+  {
+   "key": "blackjack",
+   "file": "bj.jpg",
+   "media": "image",
+   "feature": "blackjack",
+   "facts": "Free-play blackjack (no cash value) with a $ TIP button mid-hand; play her 1-on-1"
+  },
+  {
+   "key": "slots",
+   "file": "slots.jpg",
+   "media": "image",
+   "feature": "slots",
+   "facts": "Free-play slots (no cash value); flip her photos while you spin. Do NOT say you can tip during slots."
+  },
+  {
+   "key": "vault",
+   "file": "vault.jpg",
+   "media": "image",
+   "feature": "vault",
+   "facts": "10,000+ exclusive photos in 900+ galleries. Never say tens of thousands."
+  },
+  {
+   "key": "live",
+   "file": "live.jpg",
+   "media": "image",
+   "feature": "live",
+   "facts": "Profile shows LIVE NOW with a Watch live button; she sees your tips on stream"
+  }
+ ],
+ "niches": {
+  "football": [
+   "#NFL",
+   "#CFB",
+   "#SNF",
+   "#MNF",
+   "#TNF",
+   "#FantasyFootball"
+  ],
+  "mma_fight": [
+   "#UFC",
+   "#MMA",
+   "#Boxing",
+   "#BKFC",
+   "#BJJ"
+  ],
+  "racing": [
+   "#F1",
+   "#NASCAR",
+   "#IndyCar",
+   "#MotoGP"
+  ],
+  "hunting": [
+   "#Hunting",
+   "#DeerSeason",
+   "#Bowhunting",
+   "#DuckHunting",
+   "#Outdoors"
+  ],
+  "fishing": [
+   "#Fishing",
+   "#BassFishing",
+   "#IceFishing",
+   "#FishingLife"
+  ],
+  "gaming": [
+   "#Gaming",
+   "#CallOfDuty",
+   "#Warzone",
+   "#Esports",
+   "#PS5",
+   "#Xbox"
+  ],
+  "bettors": [
+   "#Parlay",
+   "#PlayerProps",
+   "#SportsBetting",
+   "#DFS"
+  ],
+  "casino": [
+   "#Blackjack",
+   "#Slots",
+   "#Vegas",
+   "#Poker"
+  ],
+  "basketball_hockey": [
+   "#NBA",
+   "#CBB",
+   "#NHL"
+  ]
+ }
+}
